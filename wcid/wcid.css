@@ -1,0 +1,9 @@
+p,ul,tr {
+	font-family: sans-serif;
+}
+#gradient  {
+	background: linear-gradient(#999999, #eeeeee);
+}
+ul li {
+	padding: 0.25em 0em;
+}
